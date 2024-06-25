@@ -70,7 +70,6 @@ local Home = Window:CreateTab("Home", 4483362458) -- Title, Image
 local Combat = Window:CreateTab("Anti-Aim", 4483362458) -- Title, Image
 local Misc = Window:CreateTab("Misc", 4483362458) -- Title, Image
 local Visuals = Window:CreateTab("Visuals", 4483362458) -- Title, Image
-local World = Window:CreateTab("World", 4483362458) -- Title, Image
 
 --// Version
 
